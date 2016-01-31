@@ -4,6 +4,6 @@
 
 void InToPost(char *infix);
 int numOfchange(char operation);
-void caluation(char *postfix);
+int caluation(char *postfix);
 
 #endif 
